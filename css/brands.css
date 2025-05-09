@@ -631,3 +631,15 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* Persian Blog */
+.button-persian-blog {
+	--button-text: #ffffff;
+	--button-background: #5d6283;
+}
+
+/* Let's Talk */
+.button-let-s-talk {
+	--button-text: #ffffff;
+	--button-background: #ee7807;
+}
